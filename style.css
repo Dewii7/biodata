@@ -35,8 +35,5 @@
     padding: 1rem;
     outline: none;
     border: 1px solid black;
-    background-color: var(--first-color-light);
-    font-size: var(--normal-font-size);
-    margin-bottom: var(--mb-2);
     border-radius: .5rem;
 }
